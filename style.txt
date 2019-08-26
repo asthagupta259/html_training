@@ -1,0 +1,13 @@
+header
+{background-color: #eee;
+font-size: 60px;
+font-family: "Times New Roman", Times, serif;
+margin: 20px;
+text-align: center;
+}
+
+
+.bgimage
+{
+background-image: url("bg.jpg");
+}
