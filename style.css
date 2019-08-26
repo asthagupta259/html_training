@@ -19,6 +19,28 @@ background-size: 100% 100%;
 {
     background-image: url("bg.png");
 height : 500px;
+}
+
+.profileimage
+{
+    background-image: url("profile.jpg");
+height : 100px;
+width:100px;
 
 background-size: 100% 100%;
+margin-left:auto;
+margin-right:auto;
+}
+
+.but{
+    margin-left:auto;
+    margin-right:auto;
+    padding:120px;
+    padding-left:600px;
+    background-color: transparent;
+}
+
+.text{
+    padding:40px;
+    padding-left: 500px;
 }
