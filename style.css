@@ -1,0 +1,25 @@
+#header
+{background-color: #eee;
+font-size: 60px;
+font-family: "Times New Roman", Times, serif;
+margin: 20px;
+text-align: center;
+height: 70px;
+}
+
+
+
+.bgimage
+{
+background-image: url("bg.png");
+height:500px;
+margin:-5px;
+}
+
+.text{
+    padding:200px;
+}
+
+.but{
+    padding:200px;
+}
